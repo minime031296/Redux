@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import axios from 'axios'; // Correct import statement
+import axios from 'axios'; 
 import './App.css';
 import { legacy_createStore } from 'redux';
 import { useDispatch, useSelector } from 'react-redux';
